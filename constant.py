@@ -57,7 +57,7 @@ INFO = r"""{
         "xjzd":"",
         "xkqq":"",
         "xwxgymjzqk":"3",
-        "ymjzxgqk":"已接种",
+        "ymjzxgqk":"喵了个咪",
         "zgfxdq":"0"
         }"""
 
